@@ -1,2 +1,2 @@
-# Jogo-Forca
-Um simples projeto feito em JavaScript, HTML e CSS onde eu desenvolvi um jogo da forca para uma feira de ciências para a escola no ano passado. (2024)
+# Projeto-Ecommerce
+Um projeto feito em JavaScript, HTML e CSS onde eu, juntamente com meu grupo no curso FullStack Java, desenvolvemos um Ecommerce de roupas, o projeto está parado e muitas coisas estão inacabadas. (ultima atualização do codigo: 04/2024)
